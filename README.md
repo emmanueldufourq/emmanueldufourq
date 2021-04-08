@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @emmanueldufourq
+- 👀 I’m interested in bioacoustics, machine learning, deep learning, evolutionary algorithms and the combination of all of those things :)
+- 💞️ I’m looking to collaborate on bioacoustic and acoustic ecology research
+- 📫 How to reach me edufourq@gmail.com
